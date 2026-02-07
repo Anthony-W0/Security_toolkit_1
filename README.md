@@ -1,6 +1,6 @@
 # Security_toolkit_1
 
-#Overview
+
 This project evaluates LLM Guard as a security toolkit for protecting Large Language Model (LLM) applications. The focus is on detecting and reducing risks such as prompt injection, sensitive data leakage, and harmful content through hands-on experimentation.
 
 ## Project Goal
